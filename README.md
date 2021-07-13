@@ -17,6 +17,9 @@ docker run -itd -p 3000:3000 -v Path_to_this_repo\docsify-sample\docs:/docs --na
 https://docsify.js.org/
 
 
+### Editor
+
+https://typora.io/
 
 
 
